@@ -17,7 +17,15 @@ Atualmente estudando:
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />           
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />    
- <a href="https://steamcommunity.com/id/jaozzcz/"><img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" /></a>
+ </a>
 </div>
 
-##          
+##    
+
+Você pode me encontrar aqui:
+<div>
+ <a href="https://steamcommunity.com/id/jaozzcz/"><img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" /></a>
+ <a href="https://www.instagram.com/_joao__e/"><img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a>
+ <a href="https://open.spotify.com/user/31ukkckgvwwwhqtpnphuxq4pkvcq"><img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg"/></a>
+ 
+</div>
