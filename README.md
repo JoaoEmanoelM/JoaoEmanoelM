@@ -31,5 +31,5 @@
  <a href="https://www.instagram.com/_joao__e/"><img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a>
  <a href="https://open.spotify.com/user/31ukkckgvwwwhqtpnphuxq4pkvcq"><img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg"/></a>
  
- <img height="150em" src="https://camo.githubusercontent.com/2b71d550352d925465af47fef468c137acd1b906508d190581e370214840203f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d464646464646266865696768743d3132302673656374696f6e3d666f6f746572"/>
+<!-- <img height="150em" src="https://camo.githubusercontent.com/2b71d550352d925465af47fef468c137acd1b906508d190581e370214840203f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d464646464646266865696768743d3132302673656374696f6e3d666f6f746572"/> -->
 </div>
