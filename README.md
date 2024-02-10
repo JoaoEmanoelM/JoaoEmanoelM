@@ -16,7 +16,8 @@ Atualmente estudando:
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />           
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />        
+ <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />    
+ <a href="https://steamcommunity.com/id/jaozzcz/"><img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" /></a>
 </div>
 
 ##          
