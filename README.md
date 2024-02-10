@@ -1,16 +1,16 @@
 ### Oi, eu sou o João 👋
 
-Sobre mim:
+**Sobre mim:**
 
--> Sou estudante do IFPR, Campus Foz do Iguaçu, atualmente cursando o técnico em desenvolvimento de sistemas integrado ao ensino médio
+**-> Sou estudante do IFPR, Campus Foz do Iguaçu, atualmente cursando o técnico em desenvolvimento de sistemas integrado ao ensino médio**
 
--> Tenho 15 anos (25/04/2008)
+**-> Tenho 15 anos (25/04/2008)**
 
--> Gosto de ouvir música, estudar programação e assistir filmes ;)
+**-> Gosto de ouvir música, estudar programação e assistir filmes ;)**
 
 ##
 
-Atualmente estudando:
+**Atualmente estudando:**
 <div>
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -22,7 +22,7 @@ Atualmente estudando:
 
 ##    
 
-Você pode me encontrar aqui:
+**Minhas redes sociais:**
 <div>
  <a href="https://steamcommunity.com/id/jaozzcz/"><img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" /></a>
  <a href="https://www.instagram.com/_joao__e/"><img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a>
