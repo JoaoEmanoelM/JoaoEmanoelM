@@ -10,7 +10,7 @@
 
 **◦ Tenho 15 anos (25/04/2008)**
 
-**◦ Gosto de ouvir música, estudar programação e assistir filmes ;)**
+**◦ Gosto de ouvir música, estudar programação e assistir filmes**
 
 ##
 
