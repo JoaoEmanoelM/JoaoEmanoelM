@@ -6,7 +6,7 @@
 
 **◦ Sou estudante do IFPR, Campus Foz do Iguaçu, Atualmente cursando o Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio**
 
-**◦ Tenho 15 anos (25/04/2008)**
+**◦ Tenho 16 anos (25/04/2008)**
 
 **◦ Gosto de ouvir música, estudar programação e assistir filmes**
 
